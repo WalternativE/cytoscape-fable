@@ -1,0 +1,10 @@
+storage: none
+source https://api.nuget.org/v3/index.json
+
+nuget Fable.Core
+nuget Fable.Import.Browser
+
+group Build
+  source https://api.nuget.org/v3/index.json
+
+  nuget FAKE

@@ -1,0 +1,6 @@
+.fake/
+bin/
+obj/
+node_modules/
+packages/
+paket-files/
